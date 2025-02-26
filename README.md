@@ -1,2 +1,2 @@
 # pid
-PID control loop implementation in C++23
+PID controller implementation in C++23
